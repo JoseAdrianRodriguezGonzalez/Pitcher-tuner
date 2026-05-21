@@ -1,0 +1,12 @@
+Dentro de data, ingresar los datasets
+
+Visualización de la siguiente manera:
+
+Pitcher-tuner/
+└── data/
+    ├── nsynth-train/
+    │   └── audio/ - aquí van los .wav de train
+    ├── nsynth-valid/
+    │   └── audio/ - aquí van los .wav de valid
+    └── nsynth-test/
+        └── audio/ - aquí van los .wav de test
